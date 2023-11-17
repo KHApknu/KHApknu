@@ -1,4 +1,4 @@
-### Hi there 👋
+### oss 수업 관련
 
 <!--
 **KHApknu/KHApknu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
